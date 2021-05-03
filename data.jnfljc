@@ -1,0 +1,15 @@
+Step 1: Row reduction and Column Reduction.
+
+done row reduction
+[[ 0 31  1]
+ [ 4  2  0]
+ [ 3  5  0]]
+
+done col reduction
+[[ 0 29  1]
+ [ 4  0  0]
+ [ 3  3  0]]
+
+step2: row scanning (col scanning)
+
+row scanning: if the row has exactly one zero, mark the zero and draw a vertical line
